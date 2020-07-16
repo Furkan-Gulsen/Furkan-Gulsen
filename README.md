@@ -4,7 +4,9 @@
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/Furkan-Gulsen) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammed-furkan-g%C3%BCl%C5%9Fen/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.furkangulsen@gmail.com)
+ 
 I am Muhammed Furkan Gulsen 🧔
+
 I live in Istanbul and am studying software engineering at Beykent University🏫. I developed myself on the web for over 4 years. I am currently working as a full stack developer  in a company👨‍💻. I have been working on artificial intelligence for about a year. Anymore my future career will be on artificial intelligence😎.
 ## 👯 Communities
 - Facebook Developer Circle

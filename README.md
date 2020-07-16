@@ -22,7 +22,7 @@ Talk to me about
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [![Medium](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange?style=for-the-badge&logo=medium)](https://medium.com/@codeblogger)
+- 📫 Read my blogs: [![Medium](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@codeblogger)
 - 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
 - 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
 - ⚡ Fun fact: Internet users blink less than usual.

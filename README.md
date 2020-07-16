@@ -11,8 +11,8 @@ I live in Istanbul and am studying software engineering at Beykent University�
 ## 👯 Communities
 - Facebook Developer Circle
 - Software Engineering Club
-- IEEE
-- T3
+- Institute of Engineers and Everyone Else (IEEE)
+- Turkey Technology Team (T3)
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (Angular)**
@@ -24,6 +24,6 @@ Talk to me about
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [![Medium](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@codeblogger)
-- 🎯 Check out my Instagram page (50k followers): [![Instagram](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/codeblogger/)
-- 💁‍♂️ View also review my Kaggle works: [![Kaggle](https://img.shields.io/badge/FOLLOW%20ME-Kaggle-red&logo=kaggle&logoColor=white)](https://www.kaggle.com/codeblogger)
+- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@codeblogger)
+- 🎯 Check out my Instagram page (50k followers): [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/codeblogger/)
+- 💁‍♂️ View also review my Kaggle works: [![KAGGLE](https://img.shields.io/badge/FOLLOW%20ME-Kaggle-red&logo=kaggle&logoColor=white)](https://www.kaggle.com/codeblogger)

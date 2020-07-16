@@ -2,8 +2,11 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammed-furkan-g%C3%BCl%C5%9Fen/) [![Medium](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange?style=for-the-badge&logo=medium)]([https://medium.com/@codeblogger](https://medium.com/@codeblogger)) [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:m.furkangulsen@gmail.com)[![Instagram](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/codeblogger/](https://www.instagram.com/codeblogger/))
+![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/Furkan-Gulsen) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammed-furkan-g%C3%BCl%C5%9Fen/) [![Medium](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange?style=for-the-badge&logo=medium)](https://medium.com/@codeblogger)
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.furkangulsen@gmail.com) [![Instagram](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeblogger/)
 
+I am Muhammed Furkan Gulsen 🧔
+I am from Istanbul, Turkey 🇹🇷.
 
 
 I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University,Alniya 🏫.I love to explore and learn about new things.

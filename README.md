@@ -6,7 +6,7 @@
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.furkangulsen@gmail.com) [![Instagram](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeblogger/)
 
 I am Muhammed Furkan Gulsen 🧔
-I live in Istanbul and am studying software engineering at Beykent University👨‍💻. I developed myself on the web for over 4 years. I am currently working as a full stack developer in a company. I have been working on artificial intelligence for about a year. Anymore my future career will be on artificial intelligence.
+I live in Istanbul and am studying software engineering at Beykent University👨‍💻. I developed myself on the web for over 4 years. I am currently working as a full stack 🔥 developer in a company. I have been working on artificial intelligence for about a year. Anymore my future career will be on artificial intelligence😎.
 
 
 I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University,Alniya .I love to explore and learn about new things.

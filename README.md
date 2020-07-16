@@ -1,18 +1,37 @@
-# Hi There 👋
+<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![GitHub followers](https://img.shields.io/github/followers/Furkan-Gulsen?color=BLUE&label=FOLLOW%20%40FURKAN-GULSEN&logo=GITHUB&logoColor=WHITE&style=for-the-badge)](#%20Hi%20There%20%F0%9F%91%8B%20%20%20%3Ca%20href=%22https://github.com/Furkan-Gulsen%22%3E%20%20%20!%5BGitHub%20followers%5D%28https://img.shields.io/github/followers/Furkan-Gulsen?color=BLUE&label=FOLLOW%20@FURKAN-GULSEN&logo=GITHUB&logoColor=WHITE&style=for-the-badge%29%20%3C/a%3E%20%20%20%20!%5BTwitter%20Follow%5D%28https://img.shields.io/twitter/follow/erdaltsksn?style=for-the-badge%29%20%5B!%5BGitHub%20Sponsor%5D%28https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge%29%5D%28https://github.com/sponsors/erdaltsksn%29)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-  
+lin[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-furkan-gulsen/)](https://www.linkedin.com/in/muhammed-furkan-g%C3%BCl%C5%9Fen/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@codeblogger/)](https://medium.com/@codeblogger)
+[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-  <a href="https://www.linkedin.com/in/muhammed-furkan-g%C3%BCl%C5%9Fen/">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University,Alniya 🏫.I love to explore and learn about new things.
+## 👯 Communities
+* Microsoft Student Partner
+* Deeplearning.ai event ambassador
+* Management Team Lead at Voice Of Code
+* CSE Club at CPU
+* CamPus Ambassador at Coding Ninja and Humanity Welfare Council
+* Internshala Student Partner-16
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, Javascript,CSS,Bootstrap**
+- Backend development using **Flask,Django**
+- Making for **Relational Database Management Systems**
+- Robust full-stack system design implementation
+- Desktop application development using **Flutter**(Still learning)
+- Mobile application development using **Flutter and Kotlin**
+- Creating scalable cloud architecture using **AWS Cloud**
+- Solving Data structure and algorithm questions in **Java and Python**
+## Hello World!! 🤔
+- 💬 Ask me about anything and everything.
+- 📫 Read my blogs: [Harsh Blog](https://harshblog.xyz)
+- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
+- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
+- ⚡ Fun fact: Internet users blink less than usual.
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+
+```⭐️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```

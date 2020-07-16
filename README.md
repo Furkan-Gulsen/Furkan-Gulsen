@@ -25,5 +25,5 @@ Talk to me about
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [![Medium](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@codeblogger)
-- 🎯 Check out my Instagram page (50k followers): [![Instagram](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeblogger/)
-- 💁‍♂️ View also review my Kaggle works: [![Kaggle](https://img.shields.io/badge/FOLLOW%20ME-Kaggle-red?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/codeblogger)
+- 🎯 Check out my Instagram page (50k followers): [![Instagram](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/codeblogger/)
+- 💁‍♂️ View also review my Kaggle works: [![Kaggle](https://img.shields.io/badge/FOLLOW%20ME-Kaggle-red&logo=kaggle&logoColor=white)](https://www.kaggle.com/codeblogger)

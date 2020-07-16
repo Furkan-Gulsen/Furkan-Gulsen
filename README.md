@@ -4,29 +4,22 @@
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/Furkan-Gulsen) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammed-furkan-g%C3%BCl%C5%9Fen/) [![Medium](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange?style=for-the-badge&logo=medium)](https://medium.com/@codeblogger)
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.furkangulsen@gmail.com) [![Instagram](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeblogger/)
-
 I am Muhammed Furkan Gulsen 🧔
-I live in Istanbul and am studying software engineering at Beykent University👨‍💻. I developed myself on the web for over 4 years. I am currently working as a full stack 🔥 developer in a company. I have been working on artificial intelligence for about a year. Anymore my future career will be on artificial intelligence😎.
-
-
-I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University,Alniya .I love to explore and learn about new things.
+I live in Istanbul and am studying software engineering at Beykent University🏫. I developed myself on the web for over 4 years. I am currently working as a full stack developer  in a company👨‍💻. I have been working on artificial intelligence for about a year. Anymore my future career will be on artificial intelligence😎.
 ## 👯 Communities
-* Microsoft Student Partner
-* Deeplearning.ai event ambassador
-* Management Team Lead at Voice Of Code
-* CSE Club at CPU
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council
-* Internshala Student Partner-16
+- Facebook Developer Circle
+- IEEE
+- Software Engineering Club
+- T3
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **Flask,Django**
+- Front-end development using **HTML, CSS, JavaScript (Angular)**
+- Backend development using **Mongo,Node**
+- Creating big and small projects using **Computer Vision (Python, C++, Matlab)**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
-- Desktop application development using **Flutter**(Still learning)
-- Mobile application development using **Flutter and Kotlin**
-- Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java and Python**
+
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [Harsh Blog](https://harshblog.xyz)

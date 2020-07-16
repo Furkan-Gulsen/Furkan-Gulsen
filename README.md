@@ -7,7 +7,7 @@
  
 I am Muhammed Furkan Gulsen 🧔
 
-I live in Istanbul and am studying software engineering at Beykent University🏫. I developed myself on the web for over 4 years. I am currently working as a full stack developer  in a company👨‍💻. I have been working on artificial intelligence for about a year. Anymore my future career will be on artificial intelligence😎.
+I live in Istanbul and studying software engineering at Beykent University🏫. I developed myself on the web for over 4 years. I am currently working as a full stack developer  in a company👨‍💻. I have been working on artificial intelligence for about a year. Anymore my future career will be on artificial intelligence😎.
 ## 👯 Communities
 - Facebook Developer Circle
 - Software Engineering Club

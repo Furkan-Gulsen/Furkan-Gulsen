@@ -12,7 +12,6 @@ I live in Istanbul and studying software engineering at Beykent University🏫. 
 - Facebook Developer Circle
 - Software Engineering Club
 - Institute of Engineers and Everyone Else (IEEE)
-- Turkey Technology Team (T3)
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (Angular)**

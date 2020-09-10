@@ -23,6 +23,6 @@ Talk to me about
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@codeblogger)
+- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@furkangulsen)
 - 🎯 Check out my Instagram page (50k followers): [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/codeblogger/)
 - 💁‍♂️ View also review my Kaggle works: [![KAGGLE](https://img.shields.io/badge/FOLLOW%20ME-Kaggle-red&logo=kaggle&logoColor=white)](https://www.kaggle.com/codeblogger)

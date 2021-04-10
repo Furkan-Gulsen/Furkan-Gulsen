@@ -17,7 +17,7 @@ I live in Istanbul and studying software engineering at Beykent University🏫. 
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (Angular)**
 - Backend development using **Mongo,Node**
-- Creating big and small projects using **Computer Vision (Python, C++, Matlab)**
+- Creating big and small projects using **Computer Vision (Python, C++, C)**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
 - Solving Data structure and algorithm questions in **Java and Python**

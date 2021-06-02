@@ -13,7 +13,7 @@ I live in Istanbul and studying software engineering at Beykent University🏫. 
 - BEU Google Developer Student Club (DSC) - Core Team (2021 - ♾)
 - BEU Software Engineering Club - Core Team (2020 - ♾)
 - BEU Institute of Engineers and Everyone Else (IEEE)
-- TensorFlow Turkey (2021 - ♾)
+- TensorFlow Turkey - Core Team (2021 - ♾)
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (Angular)**

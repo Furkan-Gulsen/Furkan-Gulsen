@@ -9,9 +9,11 @@ I am Muhammed Furkan Gulsen 🧔
 
 I live in Istanbul and studying software engineering at Beykent University🏫. I developed myself on the web for over 5 years. I am currently working as a full stack developer  in a company👨‍💻. I have been working on artificial intelligence for about two year. Anymore my future career will be on artificial intelligence😎.
 ## 👯 Communities
+- BEU Google Developer Student Club (DSC) - Lead (2021-2022)
+- Global AI Hub - Core Team (2021 - ♾)
 - Facebook Developer Circle - Core Team (2019-2020)
-- BEU Google Developer Student Club (DSC) - Core Team (2021 - ♾)
-- BEU Software Engineering Club - Core Team (2020 - ♾)
+- BEU Google Developer Student Club (DSC) - Core Team (2020 - 2021)
+- BEU Software Engineering Club - Core Team (2020 - 2021)
 - BEU Institute of Engineers and Everyone Else (IEEE)
 - TensorFlow Turkey - Core Team (2021 - ♾)
 ## ⚡ Technologies

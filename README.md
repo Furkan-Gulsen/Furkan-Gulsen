@@ -21,7 +21,8 @@ I live in Istanbul and studying software engineering at Beykent University🏫. 
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (Angular)**
-- Backend development using **Mongo,Node,Python**
+- Backend development using **Node, Python, Java Spring Boot**
+- Database using **SQL, PostgreSQL, MongoDB, Redis, ElasticSearch**
 - Mobile development using **Ionic, Flutter**
 - Creating big and small projects using **Computer Vision (Python, C++, C)**
 - Making for **Relational Database Management Systems**

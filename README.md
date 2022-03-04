@@ -17,7 +17,6 @@ I live in Istanbul and studying software engineering at Beykent University🏫. 
 - BEU Google Developer Student Club (DSC) - Core Team (2020 - 2021)
 - BEU Software Engineering Club - Core Team (2020 - 2021)
 - Facebook Developer Circle - Core Team (2019-2020)
-- BEU Institute of Engineers and Everyone Else (IEEE)
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (Angular)**

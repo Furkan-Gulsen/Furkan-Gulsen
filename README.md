@@ -24,7 +24,7 @@ Talk to me about
 - Backend development using **NodeJS, Python, Java Spring Boot**
 - Database using **SQL, PostgreSQL, MongoDB, Redis, ElasticSearch**
 - Mobile development using **Ionic, Flutter**
-- Creating big and small projects using **Computer Vision (Python, C++)**
+- Creating big and small projects using **Computer Vision (Python)**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
 - Solving Data structure and algorithm questions in **Java and Python**

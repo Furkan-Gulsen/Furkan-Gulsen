@@ -11,8 +11,8 @@ I live in Istanbul and studying software engineering at Beykent University🏫. 
 
 ## 👯 Communities
 - Leader Development Program (LIGEP) - Trainee (2022-♾)
-- BEU Google Developer Student Club (DSC) - Lead (2021-♾)
-- Microsoft Imaginer - Student Ambassador (2021-♾)
+- BEU Google Developer Student Club (DSC) - Lead (2021-2022)
+- Microsoft Imaginer - Student Ambassador (2021-2022)
 - Global AI Hub - Core Team (2021 - 2022)
 - TensorFlow Turkey - Core Team (2021 - 2022)
 - BEU Google Developer Student Club (DSC) - Core Team (2020 - 2021)

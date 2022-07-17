@@ -7,7 +7,7 @@
  
 I am Muhammed Furkan Gulsen 🧔
 
-I live in Istanbul and studying software engineering at Beykent University🏫. I developed myself on the web for over 5 years. I am currently working as a full stack developer at an AI supported media technology company👨‍💻. 
+I live in Istanbul and studying software engineering at Beykent University🏫. I developed myself on the web for over 5 years. I am currently working as a Backend developer at <a href="https://www.linkedin.com/company/ikas-com/mycompany/">IKAS</a>👨‍💻. 
 
 ## 👯 Communities
 - Leader Development Program (LIGEP) - Trainee (2022-♾)
@@ -21,9 +21,9 @@ I live in Istanbul and studying software engineering at Beykent University🏫. 
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (Angular)**
-- Backend development using **NodeJS, Python, Java Spring Boot**
+- Backend development using **NodeJS, Python**
 - Database using **SQL, PostgreSQL, MongoDB, Redis, ElasticSearch**
-- Mobile development using **Ionic, Flutter**
+- Mobile development using **Ionic**
 - Creating big and small projects using **Computer Vision (Python)**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation

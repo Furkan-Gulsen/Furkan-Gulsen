@@ -7,7 +7,7 @@
  
 I am Muhammed Furkan Gulsen 🧔
 
-I live in Istanbul and studying software engineering at Beykent University🏫. I developed myself on the web for over 5 years. I am currently working as a Backend developer at <a href="https://www.linkedin.com/company/ikas-com/mycompany/">IKAS</a>👨‍💻. 
+I live in Istanbul 🏫. I developed myself on the web for over 6 years. I am currently working as a Backend developer at <a href="https://www.linkedin.com/company/ikas-com/mycompany/">IKAS</a>👨‍💻. 
 
 ## 👯 Communities
 - Leader Development Program (LIGEP) - Trainee (2022-♾)

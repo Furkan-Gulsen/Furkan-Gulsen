@@ -11,7 +11,7 @@ I live in Istanbul 🏫. I developed myself on the web for over 6 years. I am cu
 
 ## 👯 Communities
 - Google DSC Mentor (2022-♾)
-- Leader Development Program (LIGEP) - Trainee (2022-♾)
+- Leader Development Program (LIGEP) - Trainee (2021-2022)
 - BEU Google Developer Student Club (DSC) - Lead (2021-2022)
 - Microsoft Imaginer - Student Ambassador (2021-2022)
 - Global AI Hub - Core Team (2021 - 2022)

@@ -21,14 +21,11 @@ I live in Istanbul 🏫. I developed myself on the web for over 6 years. I am cu
 - Facebook Developer Circle - Core Team (2019-2020)
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript (Angular)**
-- Backend development using **NodeJS, Python**
-- Database using **SQL, PostgreSQL, MongoDB, Redis, ElasticSearch**
-- Mobile development using **Ionic**
-- Creating big and small projects using **Computer Vision (Python)**
-- Making for **Relational Database Management Systems**
-- Robust full-stack system design implementation
-- Solving Data structure and algorithm questions in **Java and Python**
+- FrontEnd Tech: **HTML, CSS, JavaScript, TypeScript (Angular, React)**
+- BackEnd Tech: **NodeJS, NestJS, Golang, Python**
+- Database System: **SQL, NoSQL, Redis, DynamoDB, ElasticSearch**
+- Queue System: **RabbitMQ, Kafka, BullMQ**
+- Cloud System: **AWS, Google Cloud, Serverless**
 
 ## 🤔 Hello World!! 
 - 💬 Ask me about anything and everything.

@@ -15,17 +15,19 @@ I live in Istanbul 🏫. I developed myself on the web for over 6 years. I am cu
 - BEU Google Developer Student Club (DSC) - Lead (2021-2022)
 - Microsoft Imaginer - Student Ambassador (2021-2022)
 - Global AI Hub - Core Team (2021 - 2022)
-- TensorFlow Turkey - Core Team (2021 - 2022)
 - BEU Google Developer Student Club (DSC) - Core Team (2020 - 2021)
 - BEU Software Engineering Club - Core Team (2020 - 2021)
-- Facebook Developer Circle - Core Team (2019-2020)
+- Meta Developer Circle - Core Team (2019-2020)
+
+
 ## ⚡ Technologies
-Talk to me about
-- FrontEnd Tech: **HTML, CSS, JavaScript, TypeScript (Angular, React)**
-- BackEnd Tech: **NodeJS, NestJS, Golang, Python**
-- Database System: **SQL, NoSQL, Redis, DynamoDB, ElasticSearch**
-- Queue System: **RabbitMQ, Kafka, BullMQ**
-- Cloud System: **AWS, Google Cloud, Serverless**
+- **BackEnd:** NodeJS (TypeScript), GoLang, Redis, RabbitMQ, Kafka, gRPC, GraphQL
+- **DevOps:**  AWS (Serverless, ECS, EKS ...), Docker, Kubernetes, Jenkins
+- **Logging:** Prometheus, Grafana, Datadog
+- **FrontEnd:** Angular, React, NextJS
+- **Mobile:** Ionic
+- **Database:** MySQL, PostgreSQL, MongoDB, DynamoDB
+- **Artificial Intelligence:** Machine Learning Algorithms, Computer Vision
 
 ## 🤔 Hello World!! 
 - 💬 Ask me about anything and everything.

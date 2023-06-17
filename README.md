@@ -5,7 +5,7 @@
 
 <img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
 
-I'm Furkan Gulsen, a graduate of Software Engineering from Beykent University. I spent three years of my career at a Start-Up company called Ollang, working as a FullStack developer, specializing in BackEnd, FrontEnd and Artificial Intelligence. For the past two years, I have been focusing on my career as a BackEnd Developer in ikas. Additionally, although I'm not a professional in the field, I have been interested in Artificial Intelligence for about four years and I strive to share my knowledge through open-source projects. Considering myself as a content creator in the software field, I try to share articles on platforms like Medium, Dev , and my personal blog to share what I know and help others in the community.
+I'm Furkan Gulsen, a Software Engineering graduate from Beykent University. With a strong background in FullStack development, specializing in BackEnd, FrontEnd, and Artificial Intelligence, I have dedicated three years of my career at a Start-Up called Ollang and the past two years as a Backend Developer at ikas. Alongside my professional work, I have been exploring the field of Artificial Intelligence for four years, actively contributing to open-source projects to share my knowledge and support the software community.
 
 ## 👨‍💻 Professional Skills
 

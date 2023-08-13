@@ -12,7 +12,7 @@ I'm Furkan Gulsen, a Software Engineering graduate from Beykent University. With
 -  **BackEnd:**  NodeJS (TypeScript, JavaScript), Go, Java, Python 
 -  **Queue:**  RabbitMQ, Kafka, Redis
 -  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes, Jenkins
--  **Logging:**  Prometheus, Grafana, Datadog
+-  **Logging:**  Prometheus, Datadog
 -  **FrontEnd:**  Angular, React, NextJS
 -  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB, DynamoDB)
 

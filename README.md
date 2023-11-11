@@ -5,25 +5,22 @@
 
 <img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
 
-I'm Furkan Gulsen, a Software Engineering graduate from Beykent University. With a strong background in FullStack development, specializing in BackEnd, FrontEnd, and Artificial Intelligence, I have dedicated three years of my career at a Start-Up called Ollang and the past two years as a Backend Developer at ikas. Alongside my professional work, I have been exploring the field of Artificial Intelligence for four years, actively contributing to open-source projects to share my knowledge and support the software community.
-
 ## 👨‍💻 Professional Skills
 
--  **BackEnd:**  NodeJS (TypeScript, JavaScript), Go, Java, Python 
--  **Queue:**  RabbitMQ, Kafka, Redis
--  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes, Jenkins
+-  **BackEnd:**  Golang, Java, Python, Node.js (ExpressJS, NestJS)
+-  **Queue:**  RabbitMQ, Kafka
+-  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes, Jenkins, Redis
 -  **Logging:**  Prometheus, Datadog
 -  **FrontEnd:**  Angular, React, NextJS
 -  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB, DynamoDB)
 
 ## ⭐️ Communities 
 
-- Google Developer Student Clubs (Mentor, Lead, Core Team)
-- Microsoft Imaginer (Student Ambassador)
-- Meta Developer Circle (Project Manager)
-- BEU Software Engineering Club (Core Team)
-- Leader Development Program (Core Team)
-- Global AI Hub (Core Team)
+- Google Developer Student Clubs (Mentor, Lead, Core Team) - 2020-2023
+- Microsoft Imaginer (Student Ambassador) - 2021-2022
+- Meta Developer Circle (Project Manager) - 2019-2020
+- BEU Software Engineering Club (Core Team) - 2019-2021 
+- Leader Development Program (Core Team) - 2021-2022
 
 
 ## 📚 More Projects

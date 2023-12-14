@@ -25,14 +25,8 @@ I am a software engineer experienced in designing and building distributed, scal
 - Leader Development Program (Core Team) - 2021-2022
 
 
-## 🥷 Open Source Projects
+## 🥷 More Open Source Projects
 
-### Web World 🌎
 
 [![Event Driven Architecture with Golang](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=Event-Driven-Architecture-with-Golang&theme=dracula)](https://github.com/Furkan-Gulsen/Event-Driven-Architecture-with-Golang)
 [![Microservices with Go](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=microservices-with-go&theme=dracula)](https://github.com/Furkan-Gulsen/microservices-with-go)
-
-### Artificial Intelligence World 🤖
-
-[![Face Classification](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=face-classification&theme=dracula)](https://github.com/Furkan-Gulsen/face-classification)
-[![Social Distance Detection](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=social-distance-detection&theme=dracula)](https://github.com/Furkan-Gulsen/social-distance-detection)

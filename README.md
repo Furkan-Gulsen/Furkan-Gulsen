@@ -27,7 +27,6 @@ I am a software engineer experienced in designing and building distributed, scal
 
 ## 🥷 More Open Source Projects
 
-
+[![Golang URL Shortener](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=golang-url-shortener&theme=dracula)](https://github.com/Furkan-Gulsen/golang-url-shortener)
 [![Event Driven Architecture with Golang](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=Event-Driven-Architecture-with-Golang&theme=dracula)](https://github.com/Furkan-Gulsen/Event-Driven-Architecture-with-Golang)
 [![Microservices with Go](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=microservices-with-go&theme=dracula)](https://github.com/Furkan-Gulsen/microservices-with-go)
-[![Golang URL Shortener](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=golang-url-shortener&theme=dracula)](https://github.com/Furkan-Gulsen/golang-url-shortener)

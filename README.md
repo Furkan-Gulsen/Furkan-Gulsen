@@ -9,10 +9,10 @@ I am a software engineer experienced in designing and building distributed, scal
 
 ## 👨‍💻 Professional Skills
 
--  **BackEnd:**  Golang, Java, Python, Node.js (ExpressJS, NestJS)
+-  **Language:**  Go, Java, Python, JavaScript
 -  **Queue:**  RabbitMQ, Kafka
 -  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes, Jenkins, Redis
--  **Logging:**  Prometheus, Datadog
+-  **Logging:**  Prometheus, Datadog, NewRelic
 -  **FrontEnd:**  Angular, React, NextJS
 -  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB, DynamoDB)
 
@@ -27,6 +27,31 @@ I am a software engineer experienced in designing and building distributed, scal
 
 ## 🥷 More Open Source Projects
 
-[![Golang URL Shortener](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=golang-url-shortener&theme=ayu-mirage)](https://github.com/Furkan-Gulsen/golang-url-shortener)
-[![Event Driven Architecture with Golang](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=Event-Driven-Architecture-with-Golang&theme=ayu-mirage)](https://github.com/Furkan-Gulsen/Event-Driven-Architecture-with-Golang)
-[![Microservices with Go](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=microservices-with-go&theme=ayu-mirage)](https://github.com/Furkan-Gulsen/microservices-with-go)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Furkan-Gulsen/golang-url-shortener"><b>🚀 Golang URL Shortener</b></a></td>
+      <td>This URL shortener service, built with Go and Hexagonal Architecture, leverages a serverless approach for efficient scalability and performance.</td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/Furkan-Gulsen/Event-Driven-Architecture-with-Golang"><b>⚽️ Event Driven Architecture with Golang</b></a></td>
+      <td>The projects aims to integrate incoming GitHub webhooks with Grafana and Slack, essentially adding annotations and sending messages when a new commit is pushed. </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Furkan-Gulsen/microservices-with-go"><b>🤖 Microservices with Go</b></a></td>
+      <td>The project utilizes Go, Kubernetes, RabbitMQ, MongoDB, Postgres, and a microservices architecture.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Furkan-Gulsen/NBA-Simulator-with-Golang"><b>🏀 NBA Simulator with Golang</b></a></td>
+      <td>The NBA Simulator is a Go-based application designed to simulate various aspects of NBA games.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Furkan-Gulsen/gocircuit"><b>⚡️ Go Circuit Breaker</b></a></td>
+      <td>Go Circuit Breaker is a robust and flexible Go package that provides a Circuit Breaker implementation for managing unreliable or slow dependencies in your Go applications.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Furkan-Gulsen/social-distance-detection"><b>🚑 Social Distance Detection</b></a></td>
+      <td>The project that measures the social distance between people in the video through YOLOv3, OpenCV and algorithms, and shows this visually and numerically.</td>
+    </tr>
+  </tbody>
+</table>

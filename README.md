@@ -54,5 +54,9 @@ I am a software engineer experienced in designing and building distributed, scal
       <td><a href="https://github.com/Furkan-Gulsen/social-distance-detection"><b>🚑 Social Distance Detection</b></a></td>
       <td>The project that measures the social distance between people in the video through YOLOv3, OpenCV and algorithms, and shows this visually and numerically.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Furkan-Gulsen/Checkout-System"><b>🧺 Shopping Checkout Application</b></a></td>
+      <td>The project is a mini e-commerce checkout developed with Go, incorporating features such as cart management, various product types, and promotions.</td>
+    </tr>
   </tbody>
 </table>

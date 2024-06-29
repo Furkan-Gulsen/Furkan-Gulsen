@@ -58,5 +58,9 @@ I am a software engineer experienced in designing and building distributed, scal
       <td><a href="https://github.com/Furkan-Gulsen/Checkout-System"><b>🧺 Shopping Checkout Application</b></a></td>
       <td>The project is a mini e-commerce checkout developed with Go, incorporating features such as cart management, various product types, and promotions.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Furkan-Gulsen/redis-sentinel-pubsub-demo"><b>🚗 Redis Sentinel Pub/Sub Demo</b></a></td>
+      <td>The project demonstrates the implementation and functionality of Redis, Redis Sentinel, and Pub/Sub systems.</td>
+    </tr>
   </tbody>
 </table>

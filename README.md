@@ -62,5 +62,9 @@ I am a software engineer experienced in designing and building distributed, scal
       <td><a href="https://github.com/Furkan-Gulsen/redis-sentinel-pubsub-demo"><b>🚗 Redis Sentinel Pub/Sub Demo</b></a></td>
       <td>The project demonstrates the implementation and functionality of Redis, Redis Sentinel, and Pub/Sub systems.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Furkan-Gulsen/reliable_messaging_system"><b>💬 Reliable Messaging System</b></a></td>
+      <td>A robust, distributed message processing system built with Go, implementing a microservices architecture.</td>
+    </tr>
   </tbody>
 </table>

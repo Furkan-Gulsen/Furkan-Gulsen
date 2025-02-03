@@ -6,24 +6,11 @@
 ![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](http://furkangulsen.com/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-furkan-gulsen) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/furkangulsenn) [![YouTube](https://img.shields.io/badge/YouTube-B22222?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/FurkanGulsen) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@furkangulsen)
 
 
-I am a software engineer experienced in designing and building distributed, scalable systems using Go, Node.js, Python, and Java. My interest lies in microservices and software architecture. I am also an active contributor to the open-source world, where I enjoy collaborating and sharing knowledge. 
+I build scalable systems, design cloud-native architectures, and explore AI-driven solutions. Passionate about microservices, DevOps, and distributed systems, I love tackling complex engineering challenges and sharing knowledge with the community.
 
-
-## 👨‍💻 Professional Skills
-
--  **Language:**  Go, Java, Python, JavaScript
--  **Queue:**  RabbitMQ, Kafka
--  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes, Jenkins, Redis
--  **Logging:**  Prometheus, Datadog, NewRelic
--  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB, DynamoDB)
-
-## 🎓 Communities 
-
-- Google Developer Student Clubs (Mentor, Lead, Core Team) - 2020-2023
-- Microsoft Imaginer (Student Ambassador) - 2021-2022
-- Meta Developer Circle (Project Manager) - 2019-2020
-- BEU Software Engineering Club (Core Team) - 2019-2021 
-- Leader Development Program (Core Team) - 2021-2022
+🌍 Based in Istanbul, but my code runs worldwide <br>
+☁️ Exploring Cloud Computing, AI, and high-performance architectures <br>
+🧠 Currently diving deep into LLMs, and Generative AI <br><br>
 
 
 ## ⭐️ More Open Source Projects

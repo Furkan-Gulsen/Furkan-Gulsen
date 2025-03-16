@@ -53,5 +53,9 @@ I build scalable systems, design cloud-native architectures, and explore AI-driv
       <td><a href="https://github.com/Furkan-Gulsen/reliable_messaging_system"><b>💬 Reliable Messaging System</b></a></td>
       <td>A robust, distributed message processing system built with Go, implementing a microservices architecture.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Furkan-Gulsen/telegram-multi-agent-ai-bot"><b>🦾 Telegram Multi-Agent AI Bot</b></a></td>
+      <td>Telegram Multi-Agent AI Bot is an AI-driven chatbot that uses LangChain and MongoDB Atlas Search for contextual conversations and intelligent responses.</td>
+    </tr>
   </tbody>
 </table>

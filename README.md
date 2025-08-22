@@ -13,7 +13,7 @@ I build scalable systems, design cloud-native architectures, and explore AI-driv
 🧠 Currently diving deep into LLMs, and Generative AI <br><br>
 
 
-## ⭐️ More Open Source Projects
+## ⭐️ More Projects
 
 <table>
   <tbody>
@@ -56,6 +56,10 @@ I build scalable systems, design cloud-native architectures, and explore AI-driv
     <tr>
       <td><a href="https://github.com/Furkan-Gulsen/telegram-multi-agent-ai-bot"><b>🦾 Telegram Multi-Agent AI Bot</b></a></td>
       <td>Telegram Multi-Agent AI Bot is an AI-driven chatbot that uses LangChain and MongoDB Atlas Search for contextual conversations and intelligent responses.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Furkan-Gulsen/Traefik-Auth-API-Gateway"><b>🔄 Traefik Auth API Gateway</b></a></td>
+  	  <td>The project demonstrates how to use Traefik as a gateway with Docker Compose, implementing an authentication service, MongoDB, Redis, and multiple backend services.</td>
     </tr>
   </tbody>
 </table>
